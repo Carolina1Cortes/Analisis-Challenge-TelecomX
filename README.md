@@ -30,8 +30,9 @@ cancelación y mejorar la retención de clientes.
 ## 📂 Estructura del proyecto
 ```
 Proyecto
-├── TelecomX_Data.json
 ├── ChallengePart1.ipynb
+├── TelecomX_Data.json
+├── TelecomX_diccionario.md
 └── README.md
 ```
 
@@ -85,7 +86,7 @@ estrategias de retención más efectivas.
 ## ▶ Cómo Ejecutar el Proyecto
 - Clonar el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/telecomx-churn-analysis.git
+git clone https://github.com/Carolina1Cortes/telecomx-churn-analysis.git
 ```
 - Instalar dependencias:
 ```bash
